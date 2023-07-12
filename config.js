@@ -5,7 +5,7 @@ import { fileURLToPath } from 'url'
 //inserisci il tuo o i tuoi numeri 
 
 global.owner = [
-  ['393518398856', 'nobody|']
+  ['393314076888', 'nobody|']
 
 ] //inserisci il tuo o i tuoi numeri 
 
@@ -51,23 +51,23 @@ global.imagen1 = ['./media/menu1.jpg']
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 // MODIFICA IL NOME DEGLI Sticker WM
-global.packname = 'SUPERFABRIBOT-MD'
-global.author = 'SUPERFABRIBOT-MD'
+global.packname = 'Stikerami-MD'
+global.author = 'By Matty47ghigo-MD'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 //INSERISCI O MODIFICA I TUOI CONTATTI
 
-global.fgig = 'https://github.com/fabriziodee/superbot2023'
+global.fgig = 'https://github.com/Matty47ghigo/botprova'
  
-global.yt = ''
+global.yt = 'https://youtube.com/@matty47ghigo'
 
-global.fgpyp = 'https://www.tiktok.com/@3r1z10'
+global.fgpyp = 'https://www.tiktok.com/@matty47ghigo'
 
 global.faceb = ''
 
-global.vs = 'Mi0 2.1'
+global.vs = 'Bho'
 
-global.lb = 'SUPERFABRIBOT-MD'
+global.lb = 'Matty47ghigo Bot-MD'
 global.lolibot = lb
 
 global.dygp = 'https://chat.whatsapp.com/BHZDSUDHuwWEed4Ut8aeUQ' //grupo del bot
@@ -81,8 +81,8 @@ global.maxwarn = '4' // máxima advertencias
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.wm = 'SUPERFABRIBOT-MD'
-global.wait = '*⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
+global.wm = 'Matty47ghgo-MD'
+global.wait = '*⌛ _Caricamento..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
